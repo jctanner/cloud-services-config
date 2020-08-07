@@ -4,7 +4,7 @@ Stable:
 Beta:
   branch: prod-beta
   url_prefix: /beta
-  content_path_prefix: /beta
+  content_path_prefix: /betassdssfsa
 
 PenTestStable:
   branch: qa-stable
